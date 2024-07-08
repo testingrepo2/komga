@@ -9,7 +9,7 @@
 
 # ![app icon](./.github/readme-images/app-icon.png) Komga
 
-Komga is a media server for your comics, mangas, BDs, magazines and eBooks.
+Komga is a media server for your comics, mangas, BDs, magazines and eBooks. 
 
 #### Chat on [Discord](https://discord.gg/TdRpkDu)
 
